@@ -1,5 +1,5 @@
 ### Github stats
-![javais](https://github-readme-stats.vercel.app/api?username=javais&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=javais&show_icons=true&theme=tokyonight)
 
 
 ### Visitors
